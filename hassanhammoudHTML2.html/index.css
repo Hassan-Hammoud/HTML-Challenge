@@ -1,0 +1,26 @@
+header {
+    width: 100%;
+    height: 170px;
+    background-color: rgb(14 183 28 / 81%);
+    padding: 20px 10px;
+    margin: auto;
+    text-align: center;
+    color: #d5cece;
+    font-size: 20px;
+}
+
+img {
+margin-left: 320px;
+border-radius: 50%;
+}
+ul li{
+font-size: 20px;
+}
+
+
+footer{
+    background-color: rgb(14 183 28 / 81%);
+    font-size: 20px;
+    width: 100%;
+    height: 220px;
+}
